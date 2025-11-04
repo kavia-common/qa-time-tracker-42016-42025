@@ -1,0 +1,4 @@
+{
+    "command": "cmake --build build && DISPLAY=:99  cmake --build build --target run ",
+    "working_directory": "/home/kavia/workspace/code-generation/qa-time-tracker-42016-42025/qa_clock_native_app"
+}

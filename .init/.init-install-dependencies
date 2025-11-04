@@ -1,0 +1,4 @@
+{
+    "command": "sudo apt-get update && sudo apt-get install -y qt6-base-dev qt6-base-dev-tools cmake build-essential",
+    "working_directory": "/home/kavia/workspace/code-generation/qa-time-tracker-42016-42025/qa_clock_native_app"
+}
